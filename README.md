@@ -1,4 +1,4 @@
-[![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Davidsonity/Sentiment_Analysis-StrangerThings/blob/main/Notebook/Twitter_Sentiment.ipynb)
+[![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Sentiment_Analysis-StrangerThings/blob/main/Notebook/Twitter_Sentiment.ipynb)
 
 # Twitter Sentiment Analysis on Netflix Series "Stranger Things"
 
