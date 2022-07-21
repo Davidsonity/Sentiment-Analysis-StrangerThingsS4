@@ -9,7 +9,7 @@ Performing data analysis on tweets about the netflix series "stranger things".
 - Date of 1st half release: 2022-05-27
 - Date of complete series release: 1st of July 2022
 - Date of Project creation: 7th of july 2022
-- Scraped Data: Most recent 50000 tweets from on Date of complete series release to Date of 1st half release
+- Scraped Data: Most recent 50000 tweets from Date of complete series release to Date of 1st half release
 
 ## Section🗂️: 
 - 📓 WebScraping using snscrape
