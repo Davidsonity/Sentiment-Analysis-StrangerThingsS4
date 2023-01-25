@@ -1,10 +1,12 @@
-# Twitter Sentiment Analysis on Netflix Series "Stranger Things"
+## Twitter Sentiment Analysis on Netflix Series "Stranger Things 4"
 
 <center>
     <img src="https://66.media.tumblr.com/464a579dd9cb32ba1e55892fad783f4b/tumblr_obyu3oGwOc1qaiuijo1_400.gif" width="600" alt="cognitiveclass.ai logo" />
 </center>
 
-> A COMPLETE END TO END PROJECT.
+> A COMPLETE END TO END PROJECT. 
+> 
+> View Notebook: https://github.com/Davidsonity/Sentiment-Analysis-StrangerThingsS4/blob/main/Notebook/Twitter_Sentiment.ipynb
 
 ### INTRODUCTION
 Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. For this project is to perform sentiment analysis on tweets about the netflix series "stranger things - Season 4".
