@@ -4,8 +4,6 @@
     <img src="https://66.media.tumblr.com/464a579dd9cb32ba1e55892fad783f4b/tumblr_obyu3oGwOc1qaiuijo1_400.gif" width="600" alt="cognitiveclass.ai logo" />
 </center>
 
-> A COMPLETE END TO END PROJECT. 
-> 
 > View Notebook: https://github.com/Davidsonity/Sentiment-Analysis-StrangerThingsS4/blob/main/Notebook/Twitter_Sentiment.ipynb
 
 ### INTRODUCTION
