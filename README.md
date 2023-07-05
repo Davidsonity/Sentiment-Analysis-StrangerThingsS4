@@ -1,29 +1,52 @@
-## Twitter Sentiment Analysis on Netflix Series "Stranger Things 4"
+# Twitter Sentiment Analysis Using Transformer Model
 
-<center>
-    <img src="https://66.media.tumblr.com/464a579dd9cb32ba1e55892fad783f4b/tumblr_obyu3oGwOc1qaiuijo1_400.gif" width="600" alt="cognitiveclass.ai logo" />
-</center>
+![ST4](https://media.giphy.com/media/l41Y9SKrl3kLVamfC/giphy.gif)
 
-> View Notebook: https://github.com/Davidsonity/Sentiment-Analysis-StrangerThingsS4/blob/main/Notebook/Twitter_Sentiment.ipynb
+## Description
 
-### INTRODUCTION
-Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. For this project is to perform sentiment analysis on tweets about the netflix series "stranger things - Season 4".
+This project performs sentiment analysis on tweets related to the Netflix series "Stranger Things." The analysis focuses on tweets from the release date of the first half of Season 4 (May 27, 2022) to the complete series release date (July 2, 2022). The goal is to understand the overall sentiment of Twitter users towards the latest season.
 
+The project consists of two main stages:
+1. Web Scraping using snscrape to collect tweets related to "Stranger Things."
+2. Performing Sentiment Analysis using the Transformers model.
 
-#### Main Objectives
-The main objective of this project is to scrape and perform sentiment analysis on tweets about the netflix series "stranger things - Season 4".
+## Repository Structure
 
-#### About Dataset
-This dataset will be scraped from twitter with the following details
-- Date of 1st half release: 2022-05-27
-- Date of complete series release: 2022-07-02
-- Scraped Data: Most recent 50000 tweets from 2022-05-27 to 2022-07-02
+The repository contains the following files and directories:
 
-Data Source: twitter
+- `data`: Directory containing the data files used in the project.
+- `images`: Directory containing images related to the project.
+- `LICENSE`: License file specifying the terms of use for the project.
+- `README.md`: Detailed information about the project, its purpose, and usage.
+- `notebook.ipynb`: Jupyter Notebook file containing the code and analysis for the project.
 
+## Requirements
 
-### Methodology/Steps taken
-- WebScraping using snscrape
-- Data Cleaning
-- Performing Sentiment Analysis
-- EDA and Visualization
+- Python 3
+- snscrape
+- Jupyter Notebook
+- Transformers library
+- pandas, numpy, PIL, tqdm, plotly, matplotlib
+
+## Usage
+
+1. Clone the repository
+
+2. Navigate to the project directory:
+
+3. Install the required dependencies:
+
+4. Open the Jupyter Notebook `notebook.ipynb` to run the project's code and analysis. The notebook provides step-by-step instructions and explanations of each stage of the project.
+
+5. The notebook performs web scraping using snscrape to collect tweets and stores them in the `data` directory. It then uses the Transformers library to perform sentiment analysis on the collected tweets.
+
+6. The analysis includes visualizations of sentiment distribution, sentiment scores, and other relevant insights.
+
+## Acknowledgments
+
+- The Transformers library and the Twitter-RoBERTa model by CardiffNLP were used for sentiment analysis.
+- The snscrape library was used for web scraping Twitter data.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
