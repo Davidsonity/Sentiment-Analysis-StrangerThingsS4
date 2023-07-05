@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Using Transformer Model
+# Sentistranger: Unveiling Twitter Sentiment for Stranger Things
 
 ![ST4](https://media.giphy.com/media/l41Y9SKrl3kLVamfC/giphy.gif)
 
